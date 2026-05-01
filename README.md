@@ -2,7 +2,7 @@
 
 📍 Саранск  
 📦 Готовность к релокации: рассматриваю участие в долгосрочных проектах при подходящих условиях  
-📧 [nastasya.sor@mail.ru] | 💼 [HH.ru] | ✈️ [ТГ @AnastasiaBardina]
+📧 [nastasya.sor@mail.ru] | 💼 [HH.ru] | ✈️ [ТГ@AnastasiaBardina]
 
 ---
 
