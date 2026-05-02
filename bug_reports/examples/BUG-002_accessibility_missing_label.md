@@ -92,3 +92,17 @@ WCAG 2.1 — уровень A
 <input id="email" type="email">
 или
 <input type="email" aria-label="Email">
+
+---
+
+## Рекомендации
+
+добавить элемент <label> с атрибутом for
+либо использовать aria-label
+проверить аналогичные поля формы
+Тип дефекта
+Accessibility
+
+## Связанные тест-кейсы
+
+TC-EAQ-001-01 (Login)
